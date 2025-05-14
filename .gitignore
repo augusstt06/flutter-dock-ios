@@ -1,0 +1,4 @@
+build/
+*.p12
+*.mobileprovision
+build_info.json
